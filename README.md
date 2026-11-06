@@ -7,4 +7,4 @@ Design engineer in Jakarta. I design in Figma, then ship it myself — Next.js, 
 - Portfolio [gbaguswk.com](https://gbaguswk.com) 
 
 **Elsewhere**
-→ [LinkedIn](https://www.linkedin.com/in/gbaguswk) · [Layers](https://layers.to/gbaguswk) · [Behance](https://www.behance.net/gbaguswk)
+→ [LinkedIn](https://www.linkedin.com/in/gbaguswk)
